@@ -1,2 +1,2 @@
 #!/bin/bas
-grep "root" /etc/passwdh
+egrep "root" /etc/passwd
