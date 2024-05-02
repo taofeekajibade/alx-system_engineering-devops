@@ -1,2 +1,1 @@
-This is a blog post published on medium about what happens when you type https://www.google.com on your browser and press enter.
-Written by Faith Ikhidero
+A blog post on linkedin detailing what happens when a user types https://www.google.com in a computer browser and press enter.
