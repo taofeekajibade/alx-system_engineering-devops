@@ -1,4 +1,4 @@
-<img src=./image.png width=100%>
+<img src=./onfire.gif width=50%>
 
 # ImagePress requests failure report
 Last week, it was reported that the ImagePress platform was returning 500 Error on all requests made on the platform routes, all the services were down.  90% of the users were affected. The root cause was the failure of our master server web-01.
